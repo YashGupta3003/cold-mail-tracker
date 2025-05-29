@@ -1,0 +1,4 @@
+node_modules
+.env
+cold-mail-tracker/frontend/.env
+cold-mail-tracker/backend/.env
